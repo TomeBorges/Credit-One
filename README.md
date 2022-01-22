@@ -1,4 +1,4 @@
-# CreditOne
+# Credit One
 EDA and ML modelling for credit company.
 
 Ubiqum - Course 2
